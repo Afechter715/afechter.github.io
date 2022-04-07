@@ -26,7 +26,5 @@ How can we design an elemental artificial muscle using foldable robotics techniq
 
 
 
-[comment]: <> ([## External Links, example link to idealab](https://idealab.asu.edu))
-
 
 ## References
