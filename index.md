@@ -17,6 +17,10 @@ Foldable robotic systems creates a new opportunity to manufacture mechanisms tha
 
 How can we design an elemental artificial muscle using foldable robotics techniques that can produce the same biomechanical properties as that involved in legged motion of land based vertebrates? 
 
+## Assignments
+[Design and Manufacturing Workflow]( /https://github.com/Afechter715/afechter.github.io/blob/d0802e0eb92aa8002f2f6bd64a3b55d7b1d7d84d/Design%20and%20Manufacturing%20Workflow.md/
+)
+
 
 ## Current Version
 
