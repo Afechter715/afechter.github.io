@@ -1,24 +1,22 @@
 ---
-title: Home
+title: Home - Legged Material 2
 ---
 
 # Home
 
 ## Introduction
 
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
+Foldable robotic systems creates a new opportunity to manufacture mechanisms that have not been possible. This project focuses on mimicing the human calf muscle to allow control  of the heel angle while running.
+![Calf Muscle Diagram](https://mobilephysiotherapyclinic.in/wp-content/uploads/2019/12/calf-m.jpg)
 
 ## Research Question
 
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
+How can we design an elemental artificial muscle using foldable robotics techniques that can produce the same biomechanical properties as that involved in legged motion of land based vertebrates? 
+
 
 ## Background
 
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
+
 
 [link to background](/background)
 
