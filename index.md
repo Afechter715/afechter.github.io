@@ -16,13 +16,7 @@ Foldable robotic systems creates a new opportunity to manufacture mechanisms tha
 How can we design an elemental artificial muscle using foldable robotics techniques that can produce the same biomechanical properties as that involved in legged motion of land based vertebrates? 
 
 
-## Background
-
-
-
-[link to background](/background)
-
-## Results
+## Current Version
 
 1. Numbered Point 1
 1. Numbered Point 2
@@ -30,9 +24,9 @@ How can we design an elemental artificial muscle using foldable robotics techniq
 
 ## Conclusions and Future Work
 
-## External Links
 
-[example link to idealab](https://idealab.asu.edu)
+
+[comment]: <> ([## External Links, example link to idealab](https://idealab.asu.edu))
 
 
 ## References
