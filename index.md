@@ -38,7 +38,7 @@ How can we design an elemental artificial muscle using foldable robotics techniq
 ## Current Version
 
 
-![Sarrus Assembly ISO](https://github.com/Afechter715/afechter.github.io/blob/162b75492aa127f6c931d7846b2e04bef3d31a9a/Sarrus%20Assembly%20ISO.JPG)
+![Sarrus Assembly ISO](https://ibb.co/mhRfj4p)
 
 ## Conclusions and Future Work
 
