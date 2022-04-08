@@ -20,6 +20,14 @@ How can we design an elemental artificial muscle using foldable robotics techniq
 ## Assignments
 [Dynamics I](https://afechter715.github.io/afechter.github.io/Dynamics_I)
 
+[System Identification Plan](https://afechter715.github.io/afechter.github.io/System_ID_Plan)
+
+[System Identification](https://afechter715.github.io/afechter.github.io/System_ID)
+
+
+## Presentations
+
+[Presentation 2](https://youtu.be/SVlOz9L-fVo)
 
 ## Current Version
 
