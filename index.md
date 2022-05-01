@@ -46,8 +46,7 @@ How can an artificial muscle be designed using foldable robotics techniques that
 
 ![Sarrus Assembly ISO](https://i.ibb.co/8Pm1C9k/Sarrus-Assembly-ISO.jpg)
 
-
-![Sarrus Assembly Protoype](https://ibb.co/WpRz6Nt)
+![Sarrus Assembly Protype](https://i.ibb.co/PzVWNsQ/20220428-000237.jpg)
 
 
 ## Conclusions and Future Work
