@@ -11,7 +11,7 @@ Foldable robotic systems creates a new opportunity to manufacture mechanisms tha
 
 ![Calf Muscle Diagram](https://mobilephysiotherapyclinic.in/wp-content/uploads/2019/12/calf-m.jpg)
 
-[1]
+Calf Muscle Diagram[1]
 
 ## Research Question
 
