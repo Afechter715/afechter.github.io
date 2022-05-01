@@ -8,7 +8,11 @@ The project goal is to focus on the calf muscle, or gastrocnemius, as the muscle
 
 ![Calf Muscle Diagram](https://mobilephysiotherapyclinic.in/wp-content/uploads/2019/12/calf-m.jpg)
 
-Calf Muscle Diagram
+Calf Muscle Diagram[1]
 
 
 As such, the device must create linear motion with the ability to push and pull. It must also be a foldable roboitcs system operated by servos.
+
+
+## References
+[1] https://www.shape.com/fitness/workouts/leg-workouts/calf-workout-exercises-mobility
