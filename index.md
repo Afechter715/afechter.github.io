@@ -48,14 +48,16 @@ How can an artificial muscle be designed using foldable robotics techniques that
 
 ## Conclusions and Future Work
 
-Mimicking muscle with foldable robotics systems can be useful for creating bio inspired designs.
-Design and research time can be reduced by using bioinspiration. 
-Actuator and geometry selected is critical for effective application.
+
+Parameters and Testing Methods:
+* Mimicking muscle with foldable robotics systems can be useful for creating bio inspired designs.
+* Design and research time can be reduced by using bioinspiration. 
+* Actuator and geometry selected is critical for effective application.
 
 Continuation:
-Explore more effective geometry.
-Utilize stronger actuators.
-Investigate best stiff and flexible materials.
+* Explore more effective geometry.
+* Utilize stronger actuators.
+* Investigate best stiff and flexible materials.
 
 
 
