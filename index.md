@@ -15,7 +15,7 @@ Calf Muscle Diagram[1]
 
 ## Research Question
 
-How can we design an elemental artificial muscle using foldable robotics techniques that can produce the same biomechanical properties as that involved in legged motion of land based vertebrates? 
+How can an artificial muscle be designed using foldable robotics techniques that can produce the same biomechanical properties as that involved in ankle motion of land based vertebrates?
 
 ## Assignments
 [Biomechanics](https://afechter715.github.io/afechter.github.io/Biomechanics)
@@ -48,6 +48,14 @@ How can we design an elemental artificial muscle using foldable robotics techniq
 
 ## Conclusions and Future Work
 
+Mimicking muscle with foldable robotics systems can be useful for creating bio inspired designs.
+Design and research time can be reduced by using bioinspiration. 
+Actuator and geometry selected is critical for effective application.
+
+Continuation:
+Explore more effective geometry.
+Utilize stronger actuators.
+Investigate best stiff and flexible materials.
 
 
 
