@@ -54,7 +54,7 @@ Parameters and Testing Methods:
 * Design and research time can be reduced by using bioinspiration. 
 * Actuator and geometry selected is critical for effective application.
 
-Continuation:
+Project Continuation:
 * Explore more effective geometry.
 * Utilize stronger actuators.
 * Investigate best stiff and flexible materials.
