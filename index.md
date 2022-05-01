@@ -30,10 +30,16 @@ How can we design an elemental artificial muscle using foldable robotics techniq
 
 [Dynamics II](https://afechter715.github.io/afechter.github.io/Dynamics2)
 
+[Design Optimization](https://afechter715.github.io/afechter.github.io/Design_Optimization)
+
+[Manufacturing Planning](https://afechter715.github.io/afechter.github.io/Manufacturing_Planning)
+
 
 ## Presentations
 
 [Presentation 2](https://youtu.be/SVlOz9L-fVo)
+
+[Presentation 3](https://youtu.be/6jy8N0BB_gE)
 
 ## Current Version
 
