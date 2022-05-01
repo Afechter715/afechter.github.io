@@ -2,4 +2,4 @@
 title: CAD Files
 ---
 
-TO BE UPDATED
+https://drive.google.com/drive/folders/1fzY9kCMuEYDinp0CCUahqtIw_xycFmO_?usp=sharing
