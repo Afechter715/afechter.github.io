@@ -2,4 +2,4 @@
 title: Kinematics
 ---
 
-TO BE UPDATED
+https://i.ibb.co/r51K1sh/Heel-Prototype.jpg
